@@ -5,7 +5,7 @@ public class Solution {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
        String myString = scan.next();
-       int t = scan.nextInt();
+       int n = scan.nextInt();
        int x = scan.nextInt();
        scan.close();
        
