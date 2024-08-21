@@ -10,7 +10,7 @@ public class Solution {
        scan.close();
        
        System.out.println(myString);
-       System.out.println(t);
+       System.out.println(n);
        System.out.println(x);
     }
 }
