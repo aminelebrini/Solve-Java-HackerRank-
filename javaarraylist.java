@@ -15,7 +15,7 @@ public class javaarraylist {
         }
 
         int a = sc.nextInt();
-        for (int v = 0; v < a; i++) {
+        for (int i = 0; v < a; i++) {
             int x = sc.nextInt();
             int y = sc.nextInt();
             if (x>xx.size() && y>xx.get(x-1).size()) {
