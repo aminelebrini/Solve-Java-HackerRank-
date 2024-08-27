@@ -6,7 +6,7 @@ public class Solution {
         Scanner scan = new Scanner(System.in);
        String myString = scan.next();
        int x = scan.nextInt();
-       int t = scan.nextInt();
+       int c = scan.nextInt();
        scan.close();
        
        System.out.println(myString);
