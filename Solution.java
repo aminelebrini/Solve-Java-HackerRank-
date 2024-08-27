@@ -11,6 +11,6 @@ public class Solution {
        
        System.out.println(myString);
        System.out.println(x);
-       System.out.println(t);
+       System.out.println(c);
     }
 }
